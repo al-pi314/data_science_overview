@@ -6,4 +6,6 @@ Repository is also used for additional inspired research and work done while fol
 
 # Folders
 
+- / -> testing files
+- personal -> files used in inspired work
 - material -> material provided by the course
